@@ -1,3 +1,3 @@
-The repo of some learning materials ~
+The repo of learning materials ~
 
 By Vincent
