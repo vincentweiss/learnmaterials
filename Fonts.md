@@ -9,7 +9,7 @@
 `字体` - Typeface
 
 - `字符`：字幕、数字、汉字、符号等，是一种抽象实体。
-- `字形`：单个[字符]的具体表达，一个字可有多个不同的字形。原则上Unicode中只对`字`，而非字形编码。      ![Alt text](img/QQ截图20160322094328.png)
+- `字形`：单个[字符]的具体表达，一个字可有多个不同的字形。原则上Unicode中只对`字`，而非字形编码。      ![Alt text](img/20160322094328.png)
 - `字型`：印刷行业中，指某一套具有同样样式和尺码的字形，如一整套中易宋体5号字、一整套9磅Helvetica 粗体字。
 - `字体`：若干个[字型]在若干个尺寸上的集合。随着计算机字体（Computer font）的普及，可缩放的矢量字体的出现使得[字型]和[字体]的界限组件模糊，现今这两个概念在数字排版领域越来越多地被当做同义词使用。
 ```
@@ -21,12 +21,12 @@
 **按有无衬线**
 - `衬线字体（serif）`
 - `无衬线字体（sans serif）`
-![Alt text](img/QQ截图20160322101107.png)
+![Alt text](img/20160322101107.png)
 
 **按显示类型**
 - `比例字体（proportional）` - 适合普通文本
 - `等宽字体（monospance）` - 适合代码、ASCII art。HTML中的`<pre>`、`<code>`标签常为等宽代码。
-![Alt text](img/QQ截图20160322101323.png)
+![Alt text](img/20160322101323.png)
 
 **按数据格式**
 - `点阵字体（bitmap/raster）`
@@ -64,7 +64,7 @@
 2. 后Adobe加入开发，增加对PostScript轮廓的支持
 3. PostScript flavor / TrueType flavor
 
-![Alt text](img/QQ截图20160322105430.png)
+![Alt text](img/20160322105430.png)
 
 
 #####3. CSS Fonts
@@ -111,7 +111,7 @@ font-family: 宋体；
 21	WWS Family Name
 22	WWS Subfamily Name
 ...
-![Alt text](img/QQ截图20160322111850.png)
+![Alt text](img/20160322111850.png)
 
 
 ![Alt text](img/1458616876592.png)
